@@ -86,7 +86,7 @@ async def chat(_, message):
 )
 async def chatpm(_, message):
     if not message.text:
-        await message.reply_text("Ufff... Ignoring .... ¯\_(ツ)_/¯")
+        await message.reply_text("Why Ignoring 😞")
         return
     await type_and_send(message)
 
@@ -104,7 +104,7 @@ async def main():
     await bot.start()
     print(
         """
-Your TianaChatBot Is Deployed Successfully.
+Your Alphachatbot Is Deployed Successfully.
 """
     )
     await idle()
