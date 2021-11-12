@@ -3,7 +3,9 @@
 
 • A Public Running Instance can be found on Telegram as [@TIANA_PRINCE_BOT](https://t.me/TIANA_PRINCE_BOT).
 
-![Deploy](https://telegra.ph/file/bcd7b3dec21d1c2b2583a.png)
+![
+
+
 
 ## DEPLOY ON HEROKU
 
