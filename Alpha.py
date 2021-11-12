@@ -86,14 +86,14 @@ async def chat(_, message):
 )
 async def chatpm(_, message):
     if not message.text:
-        await message.reply_text("Why Ignoring 😞")
+        await message.reply_text("Why Ignoring 😞 I Don't preffer Stickers 😎 Made By :- @adarshop_xd @alpha_bot_updates")
         return
     await type_and_send(message)
 
 
 @bot.on_message(filters.command("start") & ~filters.edited)
 async def startt(_, message):
-    await message.reply_text("Hi, I'm Alive ╮(. ❛ ᴗ ❛.)╭")
+    await message.reply_text("Hey This Is X riki Chat Bot Made By @alpha_bot_updates 😎")
 
 
 async def main():
